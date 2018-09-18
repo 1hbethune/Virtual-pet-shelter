@@ -1,20 +1,12 @@
-# Big Header
+# Virtual-Pet-Shelter
 
-## SLightly Smaller Header
+## Objective
 
-### Even Smaller header
+### This project is a pet shelter that will house pets. 
 
-*italics*
+In this shelter pets will be fed, watered and played with. 
 
-**bold**
+We will have the ability to add pets, allow for adoption,
 
-* Item list
-	* insert item listf
+and request intake information from the user. 
 
-	asldhfasdlfnalng
-	;adsfnalsdnf
-
-
-	adslkknfal
-
-	aselfan
